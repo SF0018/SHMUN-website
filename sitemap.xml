@@ -9,12 +9,27 @@
 
 <url>
   <loc>https://shmunbh.com/</loc>
-  <lastmod>2023-09-27T06:04:41+00:00</lastmod>
+  <lastmod>2023-12-09T09:11:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://shmunbh.com/index.html</loc>
-  <lastmod>2023-09-27T06:04:41+00:00</lastmod>
+  <lastmod>2023-12-09T09:11:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shmunbh.com/team.html</loc>
+  <lastmod>2023-12-09T09:11:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shmunbh.com/contact.html</loc>
+  <lastmod>2023-12-09T09:11:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shmunbh.com/register.html</loc>
+  <lastmod>2023-12-09T09:11:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
